@@ -5,7 +5,7 @@
 🌱 Currently learning: **Spring Boot in depth** (JPA, Hibernate, Spring Security)
 💡 Interested in: Backend Development, DSA, Real-world Projects
 🏆 GitHub Achievement: **Pull Shark**
-📫 Reach me at: [add your LinkedIn or email here]
+📫 Reach me at: [https://www.linkedin.com/in/nsuma/]
 
 ---
 
